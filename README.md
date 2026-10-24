@@ -4,7 +4,7 @@ A small character-level GPT I built in PyTorch and trained on Tiny Shakespeare. 
 
 On the validation set it gets down to about 1.56 nats per character. A bigram model, which just counts which character follows which, gets 2.48, so that was the bar to beat.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekpandey0706/mini-gpt/blob/main/Mini_GPT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekpandey0706/Mini_GPT/blob/main/Mini_GPT_from_scratch.ipynb)
 
 ## Results
 
